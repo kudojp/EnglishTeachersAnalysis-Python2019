@@ -10,7 +10,7 @@
 ## 関連URL
 
 - 解析結果をまとめたMediumのブログ記事、[Are older teachers more favored in DMM Eikaiwa?](https://medium.com/@daikikudo/are-older-teachers-more-favored-in-dmm-eikaiwa-1fd65ce99fce)
-- このプロジェクトで使用された[Jupyter Notebook3本](https://kudojp.github.io/EnglishTeachersAnalysis/)
+- このプロジェクトで使用された[Jupyter Notebook3本](https://kudojp.github.io/EnglishTeachersAnalysis-Python2019/)
 
 
 ## このRepoのファイル構成 
@@ -59,7 +59,7 @@
 
 ## 作業手順
 
-### [190117_teachers_scraping.ipynb](https://kudojp.github.io/EnglishTeachersAnalysis/190117_teachers_scraping.html)
+### [190117_teachers_scraping.ipynb](https://kudojp.github.io/EnglishTeachersAnalysis-Python2019/190117_teachers_scraping.html)
 
 講師のプロフィールをスクレイピングする。
 
